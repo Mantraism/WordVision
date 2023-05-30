@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/First Page.unity
+    guid: 2ad517d0c04872447b0531399d1f95c1
+  - enabled: 1
+    path: Assets/Scenes/Sign Up Page.unity
+    guid: 9d8adaad0f5783d46a950ff41f6b34f2
+  - enabled: 1
+    path: Assets/Scenes/Detect.unity
+    guid: 0ac926d5817d54df194262ddcc5326f5
+  - enabled: 1
+    path: Assets/Scenes/Log In Page.unity
+    guid: 0ea2546559cf4fc4e97d7c6b26284db6
+  - enabled: 1
+    path: Assets/Scenes/Welcome Page.unity
+    guid: c0336e7b0c6dd8746ad6cc72cc1251fe
+  - enabled: 1
+    path: Assets/Scenes/Welcome2 Page.unity
+    guid: 47a649e24ffbaca49a21592a5b0f4b82
+  - enabled: 1
+    path: Assets/Scenes/Home Page.unity
+    guid: 6331a337158e23449a4897f89e7dc774
+  - enabled: 1
+    path: Assets/Scenes/Profile Page.unity
+    guid: 1d3d35232574c4c4d8a1e6b6701f6bb2
+  - enabled: 1
+    path: Assets/Scenes/Quiz Level Page.unity
+    guid: d22c1bfe46fbdb749b163ccdc698fe02
+  - enabled: 1
+    path: Assets/Scenes/Quiz Page.unity
+    guid: 5fd33b050b3ca9e4d97c856d793656d2
+  - enabled: 1
+    path: Assets/Scenes/Quiz2 Page.unity
+    guid: 9db01cf7602adf145b75883698a21811
+  - enabled: 1
+    path: Assets/Scenes/Quiz3 Page.unity
+    guid: ac7678778cbba604b81c7b0b9f4f6d71
+  - enabled: 1
+    path: Assets/Scenes/Quiz4 Page.unity
+    guid: ce99e8470bca3b6448c6935137c81c72
+  - enabled: 1
+    path: Assets/Scenes/Quiz5 Page.unity
+    guid: 670fab2204a6055469fa3387e84193df
+  - enabled: 1
+    path: Assets/Scenes/Quiz6 Page.unity
+    guid: 0bc44a2ea39ff7f459741c6c8aaf5ff6
+  - enabled: 1
+    path: Assets/Scenes/Quiz7 Page.unity
+    guid: 32cbd121dd18ecc4f8bdccc0df151e72
+  - enabled: 1
+    path: Assets/Scenes/Media Page.unity
+    guid: 657662d0fc13597428a1d2dbe3d7833f
+  - enabled: 1
+    path: Assets/Scenes/Quiz8 Page.unity
+    guid: c2f18f8aadef0e0469826b86c61adede
+  - enabled: 1
+    path: Assets/Scenes/Quiz9 Page.unity
+    guid: f6a5452120aed3a4a8d6687ec632b9cd
+  - enabled: 1
+    path: Assets/Scenes/Congrats Page.unity
+    guid: 7aaf152597b132441b7098948be7a3f9
+  - enabled: 1
+    path: Assets/Scenes/Profile2 Page.unity
+    guid: b6da283be332b3d4b9a967992d64a159
+  - enabled: 1
+    path: Assets/Scenes/Quiz Level2 Page.unity
+    guid: e049922ff33474d4ab09c5d48a8d1dd3
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9346c9404215843728532ad0a4b0ec80,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 69de2fcfe1be64925a9dd09b8897bbf3,
+      type: 2}
+    com.needle.xr.arsimulation.PlayerSettings: {fileID: 11400000, guid: 9a0f8689786aa4a4c8448b3fe7d77e5d,
+      type: 2}
+    com.needle.xr.management.arsimulation_loader: {fileID: 11400000, guid: 95227cc7ca09cf84eaa4fb32b03ce951,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6833cfbb8c3b843d58bf5d80a430439d,
+      type: 2}
